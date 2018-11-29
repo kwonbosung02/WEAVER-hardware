@@ -54,3 +54,4 @@ The current status of the ocean can be easily checked via web page.
 This robot is Weaver.
 
 It has a triangular form.  It can collet waste from the ocean by using AX-12A six dynamixel motors. By using three BLDC motors, It is possible to move on the sea. Gyro sensor measures robot's degrees and in accordance with measured value, Collect the trash in the direction of measured value by using dynamixel motors. Also, It displays Robot's status information on the LCD.  
+
